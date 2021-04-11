@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string-array name="months">
+        <item>jan</item>
+        <item>feb</item>
+        <item>mar</item>
+        <item>apr</item>
+        <item>may</item>
+        <item>jue</item>
+        <item>jul</item>
+        <item>aug</item>
+    </string-array>
+</resources>
